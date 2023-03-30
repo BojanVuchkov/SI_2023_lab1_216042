@@ -1,0 +1,28 @@
+commit ae8ac27586287262061cd6e618a373c16eace686 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: BojanVuchkov <bojan.vuchkov@students.finki.ukim.mk>
+Date:   Thu Mar 30 22:06:50 2023 +0200
+
+    Fix method in sumEvenNumbers
+
+commit 70b48fb445279f1cb237f2f4bd6fe8b8a0f0ddea
+Merge: 633031e a75a7f8
+Author: BojanVuchkov <bojan.vuchkov@students.finki.ukim.mk>
+Date:   Thu Mar 30 23:40:40 2023 +0200
+
+    Merge branch 'bug2'
+
+commit a75a7f809ce04b27ba5f0938ea15d3cef7bfaa29 (origin/bug2, bug2)
+Author: BojanVuchkov <bojan.vuchkov@students.finki.ukim.mk>
+Date:   Thu Mar 30 22:00:18 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 633031ed1af34390632f9b1f4ddbc4e1d698e882 (origin/bug1, bug1)
+Author: BojanVuchkov <bojan.vuchkov@students.finki.ukim.mk>
+Date:   Thu Mar 30 21:55:29 2023 +0200
+
+    Fix wrong loop for reading
+
+commit fcfabaae7a3f3949fca94277fef29c885b3f7561
+Author: BojanVuchkov <bojan.vuchkov@students.finki.ukim.mk>
+Date:   Thu Mar 30 21:22:13 2023 +0200
